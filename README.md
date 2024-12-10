@@ -2,6 +2,8 @@
 
 I'm a passionate Full Stack Developer and Computer Scientist currently honing my skills at BloomTech. I love creating dynamic and responsive web applications, and I'm always eager to learn and explore new technologies.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awais144506&show_icons=true&locale=en" alt="awais144506" /></p>
+
 ## 🚀 About Me
 - 🌱 Currently learning Full Stack Development at BloomTech.
 - 💻 Computer Science graduate with a strong foundation in algorithms and data structures.
@@ -86,6 +88,7 @@ I'm a passionate Full Stack Developer and Computer Scientist currently honing my
 <a href="https://www.instagram.com/awais144506/" target="_blank">
     <img align="left" src="https://static.cdnlogo.com/logos/i/93/instagram.svg" alt="Instagram" width="40" height="40" />
   </a>
+  <a href="https://www.leetcode.com/awaisrasheed68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="awaisrasheed68" height="30" width="40" /></a>
 </p>
 
 
